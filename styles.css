@@ -6,23 +6,26 @@ body {
 }
 h1 {
     color: #f8faf7;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 h2 {
     color: #f8faf7;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
 h3{
     color: #f8faf7;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
 h4 {
     color: #f8faf7;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 h5 {
     color: #f8faf7;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+h6 {
+    color: #f8faf7;
+}
+
+h7 {
+    color: #f8faf7;
 }
