@@ -23,7 +23,10 @@ nav a:hover {background-color: #C6871C;}
 
 nav {
     padding: 10px;
-    margin-bottom: 30px;
-    background-color: beige;
+    background-color: #25331d;
 }
 
+nav {
+    margin-bottom: 30px;
+    background-color: #25331d;
+}
