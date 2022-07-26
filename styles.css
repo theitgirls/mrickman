@@ -16,13 +16,13 @@ h2 {
 
 nav {background-color: #a27c5b;}
 
-nav a {color: #472C1B}
-nav {color: #472C1B}
+nav a {color: #FFFCE8;}
+nav {color: #FFFCE8;}        
 
-nav a:hover {background-color: beige;}
+nav a:hover {background-color: #a27c5b;}
 
 nav {
     padding: 10px;
     margin-bottom: 30px;
-    background-color: #a27c5b;
+    background-color: #273C2C;
 }
