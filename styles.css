@@ -13,3 +13,10 @@ h2 {
     color: #f8faf7;
     font-family: 'Dancing Script', cursive;
 }
+
+nav {background-color: #a27c5b;}
+
+nav a {color: #472C1B}
+nav {color: #472C1B}
+
+nav a:hover {background-color: beige;}
