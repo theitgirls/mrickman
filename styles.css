@@ -20,3 +20,9 @@ nav a {color: #472C1B}
 nav {color: #472C1B}
 
 nav a:hover {background-color: beige;}
+
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: #a27c5b;
+}
