@@ -5,10 +5,17 @@ body {
 
 }
 h1 {
-    color:#664E4C;
+    color:#C6871C;
     font-family: 'Edu NSW ACT Foundation', cursive;
 }
 h2 {
     color: #f8faf7;
     font-family: 'Edu NSW ACT Foundation', cursive;
 }
+
+nav {background-color: #a27c5b;}
+
+nav a {color:#f8faf7}
+nav {color: #f8faf7}
+
+nav a:hover {background-color: #111110;}
