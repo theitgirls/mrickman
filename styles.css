@@ -1,21 +1,29 @@
 body {
     color: #25331d;
     background-color: #a27c5b;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Edu NSW ACT Foundation', cursive;
 
 }
 h1 {
-    color:#C6871C;
-    font-family: 'Edu NSW ACT Foundation', cursive;
+    color:#472C1B;
+    font-family: 'Dancing Script', cursive;
 }
+
 h2 {
     color: #f8faf7;
-    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Dancing Script', cursive;
 }
 
 nav {background-color: #a27c5b;}
 
-nav a {color:#f8faf7}
-nav {color: #f8faf7}
+nav a {color: #f8faf7;}
+nav {color: #f8faf7;}
 
-nav a:hover {background-color: #111110;}
+nav a:hover {background-color: #C6871C;}
+
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: beige;
+}
+
