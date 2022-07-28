@@ -26,3 +26,11 @@ nav {
     margin-bottom: 30px;
     background-color: #273C2C;
 }
+
+div {
+    border: 1px solid #f8faf7;
+    margin: 30px;
+    padding: 50px;
+    background-color: aqua;
+    border-radius: 25px;
+}
