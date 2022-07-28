@@ -1,6 +1,6 @@
 body {
     color: #25331d;
-    background-color: #a27c5b;
+    background-color: #ba947b;
     font-family: 'Edu NSW ACT Foundation', cursive;
 
 }
@@ -14,12 +14,12 @@ h2 {
     font-family: 'Dancing Script', cursive;
 }
 
-nav {background-color: #a27c5b;}
+nav {background-color: #ba947b;}
 
 nav a {color: #FFFCE8;}
 nav {color: #FFFCE8;}        
 
-nav a:hover {background-color: #a27c5b;}
+nav a:hover {background-color: #ba947b;}
 
 nav {
     padding: 10px;
